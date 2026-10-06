@@ -1,0 +1,14 @@
+C:\Users\davi.sportela\Documents\C#\Clinica_Podologica\Clinica_Podologica\bin\Debug\Clinica_Podologica.exe.config
+C:\Users\davi.sportela\Documents\C#\Clinica_Podologica\Clinica_Podologica\bin\Debug\Clinica_Podologica.exe
+C:\Users\davi.sportela\Documents\C#\Clinica_Podologica\Clinica_Podologica\bin\Debug\Clinica_Podologica.pdb
+C:\Users\davi.sportela\Documents\C#\Clinica_Podologica\Clinica_Podologica\obj\Debug\Clinica_Podologica.csproj.AssemblyReference.cache
+C:\Users\davi.sportela\Documents\C#\Clinica_Podologica\Clinica_Podologica\obj\Debug\Clinica_Podologica.csproj.CoreCompileInputs.cache
+C:\Users\davi.sportela\Documents\C#\Clinica_Podologica\Clinica_Podologica\obj\Debug\Clinica_Podologica.exe
+C:\Users\davi.sportela\Documents\C#\Clinica_Podologica\Clinica_Podologica\obj\Debug\Clinica_Podologica.pdb
+C:\Users\davi.sportela\Documents\C#\Registro_Hospitalar\Clinica_Podologica\bin\Debug\Clinica_Podologica.exe.config
+C:\Users\davi.sportela\Documents\C#\Registro_Hospitalar\Clinica_Podologica\bin\Debug\Clinica_Podologica.exe
+C:\Users\davi.sportela\Documents\C#\Registro_Hospitalar\Clinica_Podologica\bin\Debug\Clinica_Podologica.pdb
+C:\Users\davi.sportela\Documents\C#\Registro_Hospitalar\Clinica_Podologica\obj\Debug\Clinica_Podologica.csproj.AssemblyReference.cache
+C:\Users\davi.sportela\Documents\C#\Registro_Hospitalar\Clinica_Podologica\obj\Debug\Clinica_Podologica.csproj.CoreCompileInputs.cache
+C:\Users\davi.sportela\Documents\C#\Registro_Hospitalar\Clinica_Podologica\obj\Debug\Clinica_Podologica.exe
+C:\Users\davi.sportela\Documents\C#\Registro_Hospitalar\Clinica_Podologica\obj\Debug\Clinica_Podologica.pdb

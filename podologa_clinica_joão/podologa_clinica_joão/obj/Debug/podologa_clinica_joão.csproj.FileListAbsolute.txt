@@ -1,0 +1,7 @@
+C:\Users\davi.sportela\Documents\C#\podologa_clinica_joão\podologa_clinica_joão\bin\Debug\podologa_clinica_joão.exe.config
+C:\Users\davi.sportela\Documents\C#\podologa_clinica_joão\podologa_clinica_joão\bin\Debug\podologa_clinica_joão.exe
+C:\Users\davi.sportela\Documents\C#\podologa_clinica_joão\podologa_clinica_joão\bin\Debug\podologa_clinica_joão.pdb
+C:\Users\davi.sportela\Documents\C#\podologa_clinica_joão\podologa_clinica_joão\obj\Debug\podologa_clinica_joão.csproj.AssemblyReference.cache
+C:\Users\davi.sportela\Documents\C#\podologa_clinica_joão\podologa_clinica_joão\obj\Debug\podologa_clinica_joão.csproj.CoreCompileInputs.cache
+C:\Users\davi.sportela\Documents\C#\podologa_clinica_joão\podologa_clinica_joão\obj\Debug\podologa_clinica_joão.exe
+C:\Users\davi.sportela\Documents\C#\podologa_clinica_joão\podologa_clinica_joão\obj\Debug\podologa_clinica_joão.pdb
